@@ -49,8 +49,5 @@ I am an it engineering student <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leopoldch&theme=swift)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
