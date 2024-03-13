@@ -48,6 +48,6 @@ I am an it engineering student <img src="https://media.giphy.com/media/WUlplcMpO
 
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldch&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
