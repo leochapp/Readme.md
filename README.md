@@ -16,7 +16,7 @@ I am an it engineering student <img src="https://media.giphy.com/media/WUlplcMpO
 - :seedling: Exploring Technical Content Writing. :safety_pin: I'm particularly interested in devOps & sysadministration.
 
 - :zap: In my free time, I try to code new things and learn new concept. I read tech articles/watch tech videos. I also love playing videos games such as CS2
-- 
+  
 <!--
 ---
 
