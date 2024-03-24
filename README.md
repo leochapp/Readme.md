@@ -8,7 +8,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am an it engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
 - :telescope: I’m studying computer science and coding personnal projects for fun and passion.
