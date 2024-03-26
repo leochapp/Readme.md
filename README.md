@@ -8,7 +8,7 @@
 </div> -->
 
 ---
-:man_technologist: I am an it engineering student
+:man_technologist: Engineering student
 ### Feel free buy me beer : 
 - https://www.buymeacoffee.com/lchappuis 
 <!--
