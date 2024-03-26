@@ -9,7 +9,7 @@
 
 ---
 :man_technologist: Engineering Student
-### Feel free buy me beer : 
+### Feel free to buy me beer : 
 - https://www.buymeacoffee.com/lchappuis 
 <!--
 ---
