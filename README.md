@@ -8,7 +8,7 @@
 </div> -->
 
 ---
-:man_technologist: Engineering student
+:man_technologist: Engineering Student
 ### Feel free buy me beer : 
 - https://www.buymeacoffee.com/lchappuis 
 <!--
