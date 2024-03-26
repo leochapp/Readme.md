@@ -8,15 +8,7 @@
 </div> -->
 
 ---
-
-### :man_technologist: About Me :
-I am an it engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
-
-- :telescope: I’m studying computer science and coding personnal projects for fun and passion.
-
-- :seedling: Exploring Technical Content Writing. :safety_pin: I'm particularly interested in devOps & sysadministration.
-
-- :zap: In my free time, I try to code new things and learn new concept. I read tech articles/watch tech videos. I also love playing videos games such as CS2
+:man_technologist: I am an it engineering student
 ### Feel free buy me beer : 
 - https://www.buymeacoffee.com/lchappuis 
 <!--
