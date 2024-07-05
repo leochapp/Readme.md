@@ -1,5 +1,5 @@
 <h1>
-  welcome  ⁕
+  welcome 🍃
 </h1>
 <!--
 <div id="header" align="center">
@@ -7,7 +7,7 @@
 </div> -->
 
 ---
-Engineering Student 🎍
+Engineering Student 🌱
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leopoldch&label=Profile%20views&color=0e75b6&style=flat" alt="leopoldch" /> </p>
 
 ### Feel free to buy me beer : 
